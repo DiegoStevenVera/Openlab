@@ -47,9 +47,14 @@
 }
 
 #abajo {
-	float: right;
-	position: absolute;
-	right: 0;
-	bottom: -1000;
-	width: 300px;
+	position:fixed; 
+	right:0px; 
+	bottom: -10px; 
+	z-index:10;
+	text-align: center;
+	background-color: #18B6F5;
+	border-radius: 15%;
+	padding: 20px;
+	margin-right: 50px;
+	width: 200px;
 }
