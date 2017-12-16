@@ -1,0 +1,38 @@
+* {
+    font-size: 18px;
+   }
+
+   	#menu {
+   		color: black;
+   	}
+
+   	#categoria {
+   		background-color: black; 
+   		text-align: center; 
+   		width: 200px;
+   		color: white;
+   	}
+
+   	#polo {
+   		text-align: center; 
+   		width: 200px;
+   		color: black;
+   	}
+
+   	#producto {
+   		color: black;
+   		text-align: center;
+		padding: 30px;
+   	}
+
+   	#informacion {
+   		color: black;
+   		padding-top: 20px;
+   		padding-bottom: 20px;
+   	}
+
+   	#fondos {
+   		background-color: black;
+   		color: white;
+   		text-align: center;
+   	}
